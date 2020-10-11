@@ -4,10 +4,13 @@ Convention :- A way in which something is usually done.
 	   :- An agreement between two states covering particular matters, especially one less
 	      formal than a treaty
 
-Configuaratin :- an arrangement of parts or elements in a particular form, figure or combination.
+Configuaration :- an arrangement of parts or elements in a particular form, figure or combination.
 
 
 convention over configuration is a software design paradigm used by software frameworks that
 attempts to decrease the number of decisions that a developer using the framework is required
 to make without necessarily losing flexibility.
+
+
+
 
